@@ -1,0 +1,26 @@
+[
+	{
+		"nama" : "Dicky Kamaludin Bashar",
+		"umur" : 23,
+		"nim" : "10915012",
+		"lulus" : true,
+		"hobby": ["coding", "gaming"],
+		"pembimbing": {
+			"pembimbing1": "Agus Nur",
+			"pembimbing2": "Imel"
+		}
+
+	},
+	{
+		"nama" : "Dicky Kamaludin Bashar",
+		"umur" : 24,
+		"nim" : "21572015",
+		"lulus" : true,
+		"hobby": ["coding", "gaming"],
+		"pembimbing": {
+			"pembimbing1": "?",
+			"pembimbing2": "?"
+		}
+
+	}
+]
